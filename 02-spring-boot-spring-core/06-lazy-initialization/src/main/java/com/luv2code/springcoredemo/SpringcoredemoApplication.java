@@ -22,7 +22,7 @@ public class SpringcoredemoApplication {
 		System.out.println("numbers: "+numbers);
 		System.out.println("unique numbers: "+unique);
 
-		//count most second frequent word in list
+		//Count most second frequent word in list
 		List<String> fruits = Arrays.asList("apple","apple","mango","banana","orange","orange","banana","apple","banana","banana");
 		System.out.println(fruits);
 		Map<String, Long> map = fruits.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
