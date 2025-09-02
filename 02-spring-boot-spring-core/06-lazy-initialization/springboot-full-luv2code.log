@@ -14,3 +14,5 @@
 2025-09-02T22:28:28.771+05:30  INFO 3340 --- [springcoredemo] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
 2025-09-02T22:28:28.772+05:30  INFO 3340 --- [springcoredemo] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2025-09-02T22:28:28.910+05:30  INFO 3340 --- [springcoredemo] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 137 ms
+2025-09-02T22:40:11.760+05:30  INFO 3340 --- [springcoredemo] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-02T22:40:11.801+05:30  INFO 3340 --- [springcoredemo] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
