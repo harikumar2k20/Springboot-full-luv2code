@@ -1,0 +1,16 @@
+2025-09-02T22:28:17.400+05:30  INFO 3340 --- [springcoredemo] [restartedMain] c.l.s.SpringcoredemoApplication          : Starting SpringcoredemoApplication using Java 23 with PID 3340 (G:\practice\spring-boot-full-luv2code\02-spring-boot-spring-core\06-lazy-initialization\target\classes started by Hari in G:\practice\spring-boot-full-luv2code\02-spring-boot-spring-core\06-lazy-initialization)
+2025-09-02T22:28:17.440+05:30  INFO 3340 --- [springcoredemo] [restartedMain] c.l.s.SpringcoredemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2025-09-02T22:28:17.562+05:30  INFO 3340 --- [springcoredemo] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-02T22:28:17.563+05:30  INFO 3340 --- [springcoredemo] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-02T22:28:19.572+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-09-02T22:28:19.598+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-09-02T22:28:19.599+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-09-02T22:28:19.670+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-09-02T22:28:19.670+05:30  INFO 3340 --- [springcoredemo] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2106 ms
+2025-09-02T22:28:20.197+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-09-02T22:28:20.208+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-09-02T22:28:20.636+05:30  INFO 3340 --- [springcoredemo] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoints beneath base path '/actuator'
+2025-09-02T22:28:20.653+05:30  INFO 3340 --- [springcoredemo] [restartedMain] c.l.s.SpringcoredemoApplication          : Started SpringcoredemoApplication in 4.114 seconds (process running for 5.006)
+2025-09-02T22:28:28.771+05:30  INFO 3340 --- [springcoredemo] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-02T22:28:28.772+05:30  INFO 3340 --- [springcoredemo] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-09-02T22:28:28.910+05:30  INFO 3340 --- [springcoredemo] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 137 ms
